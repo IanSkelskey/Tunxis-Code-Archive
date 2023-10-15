@@ -1,3 +1,5 @@
+![Tunxis Logo](tunxis-logo.png)
+
 # Tunxis Code Archive
 
 ## Overview
