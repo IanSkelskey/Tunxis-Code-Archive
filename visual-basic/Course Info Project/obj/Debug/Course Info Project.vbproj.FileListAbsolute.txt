@@ -1,0 +1,25 @@
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.exe.config
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.pdb
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course_Info_Project.frmMain.resources
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course_Info_Project.Resources.resources
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.exe
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.xml
+E:\VB2017\Chap11\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.pdb
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\bin\Debug\MyCourses.mdf
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\bin\Debug\MyCourses_log.ldf
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.exe.config
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.exe
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.pdb
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\bin\Debug\Course Info Project.xml
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.vbprojAssemblyReference.cache
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course_Info_Project.frmMain.resources
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course_Info_Project.Resources.resources
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.vbproj.GenerateResource.cache
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.vbproj.CoreCompileInputs.cache
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.exe
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.xml
+X:\Profiles\01554076\OneDrive - CSCU\Desktop\Course Info Solution\Course Info Project\obj\Debug\Course Info Project.pdb

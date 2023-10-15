@@ -1,0 +1,14 @@
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\bin\Debug\Utilities.mdf
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\bin\Debug\Utilities_log.ldf
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\bin\Debug\Utilities Project.exe.config
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\bin\Debug\Utilities Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\bin\Debug\Utilities Project.pdb
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\bin\Debug\Utilities Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities Project.vbprojAssemblyReference.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities_Project.frmMain.resources
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities_Project.Resources.resources
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities Project.vbproj.GenerateResource.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Utilities-Solution-DataGrid\Utilities Project\obj\Debug\Utilities Project.pdb

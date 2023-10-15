@@ -1,0 +1,12 @@
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.exe.config
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.exe
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.pdb
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\bin\Debug\Palindrome Checker.xml
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.vbprojAssemblyReference.cache
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome_Checker.Form1.resources
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome_Checker.Resources.resources
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.vbproj.GenerateResource.cache
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.exe
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.xml
+C:\Users\iansk\source\repos\Palindrome Checker\Palindrome Checker\obj\Debug\Palindrome Checker.pdb

@@ -1,0 +1,14 @@
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\bin\Debug\Cookies.mdf
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\bin\Debug\Cookies_log.ldf
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.exe.config
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.exe
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.pdb
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.xml
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.vbprojAssemblyReference.cache
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies_Project.Form1.resources
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies_Project.Resources.resources
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.vbproj.GenerateResource.cache
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.exe
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.xml
+C:\Users\iansk\source\repos\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.pdb

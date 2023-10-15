@@ -1,0 +1,24 @@
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.exe.config
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.exe
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.pdb
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.xml
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.vbprojAssemblyReference.cache
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow_Project.Form1.resources
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow_Project.Resources.resources
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.vbproj.GenerateResource.cache
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.vbproj.CoreCompileInputs.cache
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.exe
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.xml
+X:\Profiles\01554076\source\repos\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.pdb
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.exe.config
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.pdb
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\bin\Debug\Glasgow Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.vbprojAssemblyReference.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow_Project.Form1.resources
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow_Project.Resources.resources
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.vbproj.GenerateResource.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Glasgow-Project\Glasgow Solution\Glasgow Project\obj\Debug\Glasgow Project.pdb

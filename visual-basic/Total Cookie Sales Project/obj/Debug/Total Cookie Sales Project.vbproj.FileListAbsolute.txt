@@ -1,0 +1,25 @@
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.exe.config
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.exe
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.pdb
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.xml
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\obj\Debug\Total_Cookie_Sales_Project.frmMain.resources
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\obj\Debug\Total_Cookie_Sales_Project.Resources.resources
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.exe
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.xml
+E:\VB2017\Chap11\Total Cookie Sales Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.pdb
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\bin\Debug\CookieSales.mdf
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\bin\Debug\CookieSales_log.ldf
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.exe.config
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.pdb
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\bin\Debug\Total Cookie Sales Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.vbprojAssemblyReference.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total_Cookie_Sales_Project.frmMain.resources
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total_Cookie_Sales_Project.Resources.resources
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.vbproj.GenerateResource.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Total-Cookie-Sales-Solution\Total Cookie Sales Project\obj\Debug\Total Cookie Sales Project.pdb

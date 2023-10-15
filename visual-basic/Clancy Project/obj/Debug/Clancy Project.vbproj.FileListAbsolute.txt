@@ -1,0 +1,28 @@
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\bin\Debug\Clancy Project.exe.config
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\bin\Debug\Clancy Project.exe
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\bin\Debug\Clancy Project.pdb
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\bin\Debug\Clancy Project.xml
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy Project.vbprojAssemblyReference.cache
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy_Project.Form1.resources
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy_Project.Resources.resources
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy Project.vbproj.GenerateResource.cache
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy Project.exe
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy Project.xml
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\obj\Debug\Clancy Project.pdb
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\bin\Debug\Clancy.mdf
+C:\Users\iansk\source\repos\Clancy Solution\Clancy Project\bin\Debug\Clancy_log.ldf
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\bin\Debug\Clancy.mdf
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\bin\Debug\Clancy_log.ldf
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\bin\Debug\Clancy Project.exe.config
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\bin\Debug\Clancy Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\bin\Debug\Clancy Project.pdb
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\bin\Debug\Clancy Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy Project.vbprojAssemblyReference.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy_Project.Resources.resources
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy Project.vbproj.GenerateResource.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy Project.exe
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy Project.xml
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy Project.pdb
+C:\Users\iansk\Source\Repos\IanSkelskey\Clancy-Solution\Clancy Project\obj\Debug\Clancy_Project.frmMain.resources

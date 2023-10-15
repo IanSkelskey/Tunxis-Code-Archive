@@ -1,0 +1,11 @@
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\bin\Debug\Potter Jr High School.exe.config
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\bin\Debug\Potter Jr High School.exe
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\bin\Debug\Potter Jr High School.pdb
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\bin\Debug\Potter Jr High School.xml
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\obj\Debug\Potter Jr High School.vbprojAssemblyReference.cache
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\obj\Debug\Potter_Jr_High_School.Resources.resources
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\obj\Debug\Potter Jr High School.vbproj.GenerateResource.cache
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\obj\Debug\Potter Jr High School.vbproj.CoreCompileInputs.cache
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\obj\Debug\Potter Jr High School.exe
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\obj\Debug\Potter Jr High School.xml
+X:\Profiles\01554076\source\repos\Potter Jr High School\Potter Jr High School\obj\Debug\Potter Jr High School.pdb

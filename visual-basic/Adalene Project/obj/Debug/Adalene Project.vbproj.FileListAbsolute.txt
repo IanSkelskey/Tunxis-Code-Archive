@@ -1,0 +1,41 @@
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene.mdf
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene_log.ldf
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.exe.config
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.exe
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.pdb
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.xml
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene_Project.frmMain.resources
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene_Project.Resources.resources
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.exe
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.xml
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.pdb
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\bin\Debug\Adalene.mdf
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\bin\Debug\Adalene_log.ldf
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\bin\Debug\Adalene Project.exe.config
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\bin\Debug\Adalene Project.exe
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\bin\Debug\Adalene Project.pdb
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\bin\Debug\Adalene Project.xml
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene Project.vbprojAssemblyReference.cache
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene_Project.frmMain.resources
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene_Project.Resources.resources
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene Project.vbproj.GenerateResource.cache
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene Project.exe
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene Project.xml
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution\Adalene Project\obj\Debug\Adalene Project.pdb
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\bin\Debug\Adalene.mdf
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\bin\Debug\Adalene_log.ldf
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\bin\Debug\Adalene Project.exe.config
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\bin\Debug\Adalene Project.exe
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\bin\Debug\Adalene Project.pdb
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\bin\Debug\Adalene Project.xml
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene Project.vbprojAssemblyReference.cache
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene_Project.frmMain.resources
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene_Project.Resources.resources
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene Project.vbproj.GenerateResource.cache
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene Project.exe
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene Project.xml
+C:\Users\iansk\source\repos\IanSkelskey\Adalene-Solution-TotalSales\Adalene Project\obj\Debug\Adalene Project.pdb

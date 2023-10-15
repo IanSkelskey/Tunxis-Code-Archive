@@ -1,0 +1,12 @@
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.exe.config
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.exe
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.pdb
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.xml
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbprojAssemblyReference.cache
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable_Direct_Project.frmMaim.resources
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable_Direct_Project.Resources.resources
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbproj.GenerateResource.cache
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbproj.CoreCompileInputs.cache
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.exe
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.xml
+C:\Users\Ian A Skelskey\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.pdb
